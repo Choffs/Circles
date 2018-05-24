@@ -18,5 +18,3 @@ class EventListener:
                     sys.exit()
             if event.type == pygame.MOUSEBUTTONDOWN:
                 self.circles.append(Circle(pygame.mouse.get_pos()[0],pygame.mouse.get_pos()[1]))
-                print(self.circles)
-            # if event.type == pygame.MOUSEMOTION:
