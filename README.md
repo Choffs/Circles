@@ -1,1 +1,1 @@
-# Circles
+A Basic game that uses Pygame to create random colored circles based on where the user clicks.
